@@ -1,0 +1,5 @@
+name,age,unit,weight,height,bmi,category
+lucky,25,m,60.0,170.0,20.76,Normal weight
+anurag,25,i,132.28,66.93,20.76,Normal weight
+nawin,26,m,70.0,152.0,30.3,Obese
+vinay,26,i,60.0,168.0,1.49,Underweight
